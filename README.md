@@ -1,4 +1,4 @@
-# Project 03 — Automated Threat Detection & Incident Response Pipeline
+# Automated Threat Detection & Incident Response Pipeline
 
 [![AWS](https://img.shields.io/badge/AWS-Security-orange)](https://aws.amazon.com)
 [![Terraform](https://img.shields.io/badge/IaC-Terraform-purple)](https://terraform.io)
